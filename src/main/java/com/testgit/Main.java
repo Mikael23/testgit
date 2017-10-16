@@ -10,4 +10,8 @@ public class Main {
         System.out.println("Hello git!");
     }
 
+    static int sum(int a, int b) {
+        return a + b;
+    }
+
 }
